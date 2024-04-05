@@ -1,6 +1,5 @@
 
 const ref = Math.floor(Math.random() * 100000000000000)
-console.log(ref);
 
 // You can set {n} variable for required shop-count in registration diagram (now n = 2), also now the waiting request for updating data (shopping) is 30 sec
 // There are two main processes  receiver(for user flow) -> send_mail (sending sleep/reactivation emails)
